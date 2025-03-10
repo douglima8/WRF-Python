@@ -1,0 +1,17 @@
+name: wp_env
+channels:
+  - conda-forge
+  - ncar
+dependencies:
+  - python=3
+  - cartopy
+  - geographiclib
+  - jupyter
+  - make
+  - matplotlib
+  - metpy
+  - netcdf4
+  - numpy
+  - pip
+  - wrf-python
+  - xarray
