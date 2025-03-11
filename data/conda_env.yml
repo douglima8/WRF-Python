@@ -15,3 +15,5 @@ dependencies:
   - pip
   - wrf-python
   - xarray
+  - mscorefonts
+  - cmaps
